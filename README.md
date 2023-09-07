@@ -10,7 +10,7 @@ Email: hvn2@hi.is
 This paper proposes a new loss function to train a convolutional neural network (CNN) for multispectral and hyperspectral (MS-HS) image fusion. The loss function is based on the relative dimensionless global error synthesis (ERGAS), where we exchange the mean squared error (MSE) for its unbiased estimate using Stein's risk unbiased estimate (SURE). The loss function has a good balance between the spectral and spatial information implied by the weighted MSE, therefore it does not need a parameter to balance the spectral and spatial terms as in MSE loss function, and it also converges faster than the MSE one. Additionally, the loss function enables unsupervised training and avoids overfitting, since it is derived by using SURE. Experimental results show that the proposed method yields good results and outperforms the competitive methods. 
 <br><br>.
  **Please cite our paper if you are interested**<br>
- @inproceedings{nguyen2022hyperspectral,
+ @inproceedings{nguyen2023sure-ergas,
   title={Hyperspectral Super-Resolution by Unsupervised Convolutional Neural Network and Sure},
   author={Nguyen, Han V and Ulfarsson, Magnus O and Sveinsson, Johannes R and Dalla Mura, Mauro},
   booktitle={IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium},
