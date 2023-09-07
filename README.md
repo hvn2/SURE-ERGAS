@@ -1,5 +1,5 @@
 # SURE-ERGAS
-Pytorch codes for the paper "SURE-ERGAS: Unsupervised deep learning for hyperspectral and multispectral image fusion", in Proceeding of IEEE IGARSS 2023, Pasadena, USA, 15-22 July, 2023. <br>
+Pytorch codes for the paper "SURE-ERGAS: UNSUPERVISED DEEP LEARNING MULTISPECTRAL AND HYPERSPECTRAL IMAGE FUSION", in Proceeding of IEEE IGARSS 2023, Pasadena, USA, 15-22 July, 2023. <br>
 **Authors:** Han V. Nguyen $^\ast \dagger$, Magnus O. Ulfarsson $^\ast$,  Johannes R. Sveinsson $^\ast$, and Mauro Dalla Mura $^\ddagger$ <br>
 $^\ast$ Faculty of Electrical and Computer Engineering, University of Iceland, Reykjavik, Iceland<br>
 $^\dagger$ Department of Electrical and Electronic Engineering, Nha Trang University, Khanh Hoa, Vietnam<br>
