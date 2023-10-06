@@ -11,7 +11,7 @@ This paper proposes a new loss function to train a convolutional neural network 
 <br><br>.
  **Please cite our paper if you are interested**<br>
  @inproceedings{nguyen2023sure-ergas,
-  title={Hyperspectral Super-Resolution by Unsupervised Convolutional Neural Network and Sure},
+  title={SURE-ERGAS: UNSUPERVISED DEEP LEARNING MULTISPECTRAL AND HYPERSPECTRAL IMAGE FUSION},
   author={Nguyen, Han V and Ulfarsson, Magnus O and Sveinsson, Johannes R and Dalla Mura, Mauro},
   booktitle={IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium},
   pages={0--0},
